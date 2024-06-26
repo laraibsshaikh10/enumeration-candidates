@@ -3,6 +3,8 @@
 
 require 'date'
 
+
+
 #Takes in an id
 # Returns the candidate with that :id
 # If there is no candidate with that id, it naturally returns nil
